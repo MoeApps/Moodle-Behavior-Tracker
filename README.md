@@ -118,7 +118,7 @@ Please follow Conventional Commits (https://www.conventionalcommits.org/).
 
 ## 📄 License
 
-MIT © [Your Name] – free for academic and personal use.
+MIT © Moeapps – free for academic and personal use.
 
 ---
 
